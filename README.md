@@ -79,7 +79,7 @@ Output files will be named as follows: <br />
   
 ### Note
 1.
-Only top three of area percentage are reported in the output file, which does not include NA. 
+Only top three of area percentage are reported in the output file, which does not include NA.  <br />
 2.
 Estimate processing time can depend on which framework layer that you are choosing. <br />
 For ecozone, estimate processing time is 8 minutes. <br />
