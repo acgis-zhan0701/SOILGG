@@ -80,12 +80,14 @@ Output files will be named as follows: <br />
 ### Note
 1.
 Only top three of area percentage are reported in the output file, which does not include NA.  <br />
+
 2.
 Estimate processing time can depend on which framework layer that you are choosing. <br />
 For ecozone, estimate processing time is 8 minutes. <br />
 For ecoprovince, estimate processing time is 7 minutes. <br />
 For ecoregion, esitimate processing time is 5 minutes. <br />
 For ecodistrict, estimate processing time is 5 minutes. <br />
+
 3.
 Exactextractr::extract tool does not support Points vertor data when extracting values from raster layer. 
 If you want to extract information from raster layers as points, raster::extract and terra:extract are both support points data.
