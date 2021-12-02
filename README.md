@@ -61,7 +61,6 @@ Output table contains four attributes, including:
 | Name          | Description   |
 | ------------- |:-------------:|
 | ECOXXXX    | Ecological Area ID |
-| MIN_ELEV     | Minimum Elevation      |
 | code_ID | Soil Great Group Code      |
 | GG_Class | Great Group Name     |
 | A_Coverage | Percentage of area coverage      |
